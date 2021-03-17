@@ -11,6 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlyenJS&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
  ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hasan Spotify Playing" width="350" />](https://open.spotify.com/user/mreukeaqgw20zp7w1xg2mk6bm?si=FUnjatqhT_mXDwXAi-qdPw)
+[<img src="https://now-playing-hasangunaydin.vercel.app/api/spotify-playing" alt="Hasan Spotify Playing" width="350" />](https://open.spotify.com/user/mreukeaqgw20zp7w1xg2mk6bm?si=FUnjatqhT_mXDwXAi-qdPw)
 
 </p>
