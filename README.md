@@ -9,5 +9,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlyenJS&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyenJS&layout=dark&hide=html,css" alt="My Top Langs" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyenJS&layout=compact&dark&hide=html,css" alt="My Top Langs" />
 </p>
