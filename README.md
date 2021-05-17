@@ -1,4 +1,5 @@
 <h2 align="center">Welcome my profile 🌍</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3ken-dev&label=Views&color=blue&style=plastic" alt="Amonn-dev" /> </p>
 <p align="center">
   <a href="https://discord.com/users/460121944881233920" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://top.gg/bot/724325302632710274" target"blank_"><img src="https://img.shields.io/badge/my_discord_bot%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
